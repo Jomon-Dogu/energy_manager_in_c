@@ -1,0 +1,1 @@
+"energy_manager_in_c" ist ähnlich wie das Repo "energy_manager". Der Unterschied liegt darin, dass "energy_manager_in_c" die Hardwarewerte über Kernel Module einließt um somit genauer ist als die Hardwareansprache in Python. Dieses Repository dient lediglich zum Vergleich der beiden Varianten.
